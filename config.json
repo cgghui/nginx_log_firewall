@@ -1,0 +1,13 @@
+{
+  "log_file_list": [
+    "D:\\go\\src\\ip_firewall\\45.207.53.58.log"
+  ],
+  "black": {
+    "ip": []
+  },
+  "pass": {
+    "ip": [],
+    "url_path_word": [],
+    "user_agent_word": ["Sogou web spider", "X11; Linux x86_64", "Baiduspider", "360Spider"]
+  }
+}
